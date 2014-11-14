@@ -1,14 +1,17 @@
-Karel_09
+Karel_10
 ======
 
-Karel starter code and resources for the Lab09 assignment.
+Karel starter code and resources for the Lab10 assignment.
 
 Instructions:
 * Use the FORK button to create a copy of this code under your personal Github account
 * Clone that copy from your personal Github account onto your computer
-* Ask yourself the five questions in the reading, page One-31.
-* Read the specification at the bottom of One-31.  Create the class Lab09.java and THREE MAPS of your own design, 'pile1', 'pile2', and 'pile3'.
-* If not already done, ADD pile1, pile2 and pile3 maps to your repository so they will be tracked by git.
+* Read the review material regarding decision structures, page One-35
+* Answer questions 1-5 on One-36.
+* Read the specification at the bottom of One-36.  Complete the specified tasks in Lab10.java
+* Challenge 1 - can you create a new map that your solution can NOT solve?
+* Challenge 2 - perform the Extension activity 
+* Answer the questions on page One-37
 * Once you have completed the assignment, commit your changes to your computer
 * Push the code from your local computer up to your personal Github account
 * Initiate a "Pull Request" from your completed project.  This will let me know that you are ready for me to evaluate your work.
